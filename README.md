@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Ethan Crain.
+- 👋 Hello, I’m Ethan!
 - 👀 I’m interested in Python and Coding
 - 🌱 I’m currently learning Typescript and C++.
 - 💞️ I’m looking to collaborate on Private repositories fore game hacking or web development.
